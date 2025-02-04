@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Peaceful-Desktop-Backgrounds.jpeg");
+  background-repeat: no-repeat;
+   
+}
+
+.content {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  width: 40%;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: aliceblue;
+  padding: 20px 40px;
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+  background-color: rgba(87, 83, 83, 0.87);
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.24),
+  10px 10px 10px 10px rgba(0, 0, 0, 0.041),
+  10px 10px 10px 10px rgba(0, 0, 0, 0);
+}
+
+.header {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 10px;
+}
+
+.form-section {
+  width: 100%;
+  height: auto;
+  display: block;
+  align-items: center;
+}
+
+.form-section .input-fild{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0 10px 0px;
+    height: auto;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.form-section .input-fild input{
+    width: 100%;
+    height: 40px;
+    background-color: rgba(187, 127, 255, 0.11);
+    border: 1px solid rgb(0, 255, 42);
+    color: rgb(255, 255, 255);
+    outline: none;
+    border-radius: 20px;
+    padding-left: 10px;
+    font-size: 1rem;
+}
+.form-section .input-fild label{
+    width: 100%;
+    height: 10px;
+    color: rgb(0, 255, 255);
+    padding-bottom: 15px;    
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.904); 
+    margin-bottom: 40px;  
+}
+
+a {
+  text-decoration: none;
+  color:rgb(33, 248, 86)
+}
