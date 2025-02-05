@@ -15,6 +15,12 @@
 // gsg
 // sdgsgssg
 // SVGGElementgsf
+<<<<<<< HEAD
 // gsgsgsgs
 // FragmentDirectiveh
 // FileSystemDirectoryHandleh
+=======
+// gsjgsdgl;jsdgsldjgksdgl;sjdklgfsld;gksgksdl
+// this line add by akash
+// this is a new line
+>>>>>>> akash
