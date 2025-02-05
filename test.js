@@ -5,3 +5,9 @@
 // New line added for better readability.
 // Code improvements and updates made by Lakshdeep.
 // sdjflkssfskdfjks dklfsdj hkdljsdlh flkdjsfkds
+// ShadowRoot;fjs;
+// slgj;lsdkgs
+// sg'ksgl
+// ;sgsgmsgs
+// \s;'\gs
+// gs'kg'slg
