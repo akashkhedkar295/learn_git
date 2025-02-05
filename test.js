@@ -28,4 +28,8 @@
 =======
 // this line add by akash
 // this is a new line
+<<<<<<< .merge_file_e8Fd8e
 >>>>>>> akash
+=======
+// this change made by akash
+>>>>>>> .merge_file_OGbjG1
