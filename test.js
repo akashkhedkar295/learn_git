@@ -16,16 +16,15 @@
 // gsg
 // sdgsgssg
 // SVGGElementgsf
-<<<<<<< HEAD
+
 // gsgsgsgs
 // FragmentDirectiveh
 // FileSystemDirectoryHandleh
-=======
+
 // gsjgsdgl;jsdgsldjgksdgl;sjdklgfsld;gksgksdl
 
 // first commit and changes by main branch
 // second commit also done by main branch 
-=======
+
 // this line add by akash
 // this is a new line
->>>>>>> akash
