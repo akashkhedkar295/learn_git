@@ -17,5 +17,10 @@
 // sdgsgssg
 // SVGGElementgsf
 // gsjgsdgl;jsdgsldjgksdgl;sjdklgfsld;gksgksdl
+<<<<<<< HEAD
 // first commit and changes by main branch
 // second commit also done by main branch 
+=======
+// this line add by akash
+// this is a new line
+>>>>>>> akash
